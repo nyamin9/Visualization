@@ -10,11 +10,7 @@
 
 <br>  
 
-지원 시 제출한 프로젝트 기획안은 아래 링크에 걸어두었습니다!!  
 
-[📶 슈퍼스토어 거래량 및 수익률 상승 기획안](https://github.com/nyamin9/Project/tree/main/2023%20%EC%8A%88%ED%8D%BC%EC%8A%A4%ED%86%A0%EC%96%B4%20%EA%B1%B0%EB%9E%98%EB%9F%89%20%EB%B0%8F%20%EC%88%98%EC%9D%B5%EB%A5%A0%20%EC%83%81%EC%8A%B9%20%EA%B8%B0%ED%9A%8D%EC%95%88)  
-
-<br>  
 
 <br>  
 
