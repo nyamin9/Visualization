@@ -15,17 +15,17 @@ Vizable USA Financial 사의 분석팀으로서, consumer의 complaint 데이터
 
  
 
-(1) complaint count : 년도별 총 complain의 수를 의미합니다.  
+<b>(1) complaint count</b> : 년도별 총 complain의 수를 의미합니다.  
 
 
  
 
-(2) monetary relief rate : 회사 측이 금전적인 보상을 통해 해결한 complaint의 비율을 의미합니다.  
+<b>(2) monetary relief rate</b> : 회사 측이 금전적인 보상을 통해 해결한 complaint의 비율을 의미합니다.  
 
 
  
 
-(3) disputed rate : 전체 complaint 중에서 complaint가 항의로 구성되거나, 갈등 이후에 해결되는 비율입니다.  
+<b>(3) disputed rate</b> : 전체 complaint 중에서 complaint가 항의로 구성되거나, 갈등 이후에 해결되는 비율입니다.  
  
 <br>  
 
@@ -99,7 +99,7 @@ Vizable USA Financial 사의 분석팀으로서, consumer의 complaint 데이터
 <br>  
 
 
-(1) 전반적인 KPI 파악  
+<b>(1) 전반적인 KPI 파악</b>  
 
 
  
@@ -112,7 +112,7 @@ Vizable USA Financial 사의 분석팀으로서, consumer의 complaint 데이터
 
  
 
-(2) 주요 issue 파악  
+<b>(2) 주요 issue 파악</b>  
 
 
  
@@ -136,7 +136,7 @@ Credit Card에 대해서 가장 많은 불만이 접수된 issue는 441건의 Bi
 
  
 
-(3) issue 별 금전적 대응 현황 파악  
+<b>(3) issue 별 금전적 대응 현황 파악</b>  
 
 
  
@@ -154,7 +154,7 @@ Credit Card에 대해서 가장 많은 불만이 접수된 issue는 441건의 Bi
 
  
 
-(4) issue 별 고객 항의 현황 파악  
+<b>(4) issue 별 고객 항의 현황 파악</b>  
 
 
  
@@ -176,7 +176,7 @@ consumer가 항의한 complaint의 비율을 파악하기 위해서, disputed ra
 
 <br>  
 
-Q1. 추세를 알아보기 위해 라인 차트를 만들긴 했지만, 전체 complaint와 disputed complaint를 비교하는 느낌으로도 표현하고 싶어서 막대차트를 사용할지 말지도 고민했습니다. 라인차트와 막대차트 중 어떤 차트가 좀 더 가독성있고, 제 의도가 잘 전달될지 궁금합니다.  
+<b>Q1.</b> 추세를 알아보기 위해 라인 차트를 만들긴 했지만, 전체 complaint와 disputed complaint를 비교하는 느낌으로도 표현하고 싶어서 막대차트를 사용할지 말지도 고민했습니다. 라인차트와 막대차트 중 어떤 차트가 좀 더 가독성있고, 제 의도가 잘 전달될지 궁금합니다.  
 
 <br>  
 
@@ -184,7 +184,7 @@ Q1. 추세를 알아보기 위해 라인 차트를 만들긴 했지만, 전체 c
 
  
 
-Q2. 원래 submited date 필드를 바탕으로 달력 시트를 만들려고 했지만, 2001년부터 2020년 10월까지 모든 날짜가 있는 데이터가 아니기 때문에 새로운 날짜 엑셀 파일을 하나 만들어 complaint 데이터와 오른쪽 조인하여 구현하려 했습니다. 하지만 새롭게 만든 날짜 파일에는 Product에 대한 데이터가 Null값으로 지정되어 있어서 필터 지정 시 값이 없는 나머지 날짜가 없어지는 경우가 생겼습니다. 제 생각에는 조인을 하더라도 교집합 부분에 대해 중복을 허용한다면 모든 날짜에 대한 count 표시가 가능할 듯 한데, 어떻게 고칠 수 있을지 알려주시면 감사하겠습니다!!  
+<b>Q2.</b> 원래 submited date 필드를 바탕으로 달력 시트를 만들려고 했지만, 2001년부터 2020년 10월까지 모든 날짜가 있는 데이터가 아니기 때문에 새로운 날짜 엑셀 파일을 하나 만들어 complaint 데이터와 오른쪽 조인하여 구현하려 했습니다. 하지만 새롭게 만든 날짜 파일에는 Product에 대한 데이터가 Null값으로 지정되어 있어서 필터 지정 시 값이 없는 나머지 날짜가 없어지는 경우가 생겼습니다. 제 생각에는 조인을 하더라도 교집합 부분에 대해 중복을 허용한다면 모든 날짜에 대한 count 표시가 가능할 듯 한데, 어떻게 고칠 수 있을지 알려주시면 감사하겠습니다!!  
 
 <br>  
 
